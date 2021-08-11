@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="S_EditIn_18_N_2x" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
-	.st0{fill:#EFF2F4;}
-	.st1{font-family:'Tahoma';}
-	.st2{font-size:3.2399px;}
-</style><path data-cppathid="10000" d="M17,22.4h-3.3v-8.8h8.6v2.8c0.1,0,0.1,0,0.2,0c0.3,0,0.6,0.1,0.9,0.4l0.3,0.3v-4.5c0-0.2-0.1-0.4-0.4-0.4H12.7  c-0.2,0-0.4,0.1-0.4,0.4v11c0,0.2,0.1,0.4,0.4,0.4h3.9L17,22.4z" class="st0"/><path data-cppathid="10001" d="M24.5,19l-1.5-1.6c-0.1-0.1-0.1-0.1-0.3-0.1s-0.2,0-0.3,0.1l-4,4.1c0,0-0.1,0.1-0.1,0.1l-0.9,2.7  c0,0.1,0.1,0.2,0.2,0.2l0,0c0.1,0,2.3-0.8,2.6-0.9c0,0,0.1,0,0.1-0.1l4-4.1c0.1-0.1,0.1-0.1,0.1-0.3C24.6,19.2,24.6,19.1,24.5,19z   M18.2,23.9l0.7-2l1.3,1.3C19.6,23.4,18.7,23.8,18.2,23.9z" class="st0"/><text data-cppathid="10002" class="st0 st1 st2" transform="matrix(0.9769 0 0 1 0.4849 6.3657)">¿Qué producto haremos?</text></svg>
